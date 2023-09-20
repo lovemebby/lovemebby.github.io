@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+*{
+    font-family: Poppins;
+}
+.navbar-brand{
+    font-family: 'Parisienne', cursive;
+    /* font-size: 36px; */
+}
+.image1{
+    width: 26rem;
+    border-radius: 5%;
+}
+.person{
+    border-radius: 5px;
+    margin-top: 1cm;
+
+}
+.card{
+    padding: 10px 0px;
+}
+nav{
+    margin-top: 1cm;
+}
+
+.btn1{
+    margin-right: 14rem;
+}
+
+.halfcm{
+    height: 2cm;
+}
+.onecm{
+    height: 3cm;
+}
+p{
+    text-align: center;
+    font-size: larger;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
